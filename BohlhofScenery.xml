@@ -3,6 +3,7 @@
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
 		<Package>PackageDefinitions\robingoeppert-scenery-ed33.xml</Package>
+		<Package>PackageDefinitions\robingoeppert-service-ed33.xml</Package>
 	</Packages>
 </Project>
 

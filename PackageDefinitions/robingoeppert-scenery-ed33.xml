@@ -2,8 +2,8 @@
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>ED33 Bohlhof Scenery</Title>
+		<Manufacturer/>
 		<Creator>Robin Göppert</Creator>
-		<Description/>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -24,7 +24,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\robingoeppert</OutputDir>
+			<OutputDir>scenery\robingoeppert\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="myscene">
 			<Type>BGL</Type>
@@ -32,7 +32,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\scene\</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
