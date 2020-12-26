@@ -12,17 +12,17 @@
 	<SceneryObject lat="47.64733447977789" lon="8.38480973592248" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-121.105319" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{AB5CC711-AC3B-440E-9EC4-95556137B3B7}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject lat="47.64734826494438" lon="8.38459086551652" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
+	<SceneryObject lat="47.64734826494438" lon="8.38459086551652" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" instanceId="{CEB08473-A04C-42C6-A560-E7977A16FFDD}" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="9.000000" sockLength="2.000000" lighted="FALSE"/>
 	</SceneryObject>
-	<SceneryObject lat="47.64737017372943" lon="8.38696471770470" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
+	<SceneryObject lat="47.64737017372943" lon="8.38696471770470" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" instanceId="{4D202B1E-50E7-4DF6-8211-A8D4CAFDC3B4}" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="12.000000" sockLength="2.743200" lighted="FALSE"/>
 	</SceneryObject>
 	<Airport country="Germany" city="Wutöschingen" name="Bohlhof" ident="ED33" lat="47.65097816307579" lon="8.38682150242070" alt="565.57112178020179" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
-		<TaxiwayParking index="3" type="FUEL" lat="47.64772754245647" lon="8.38502989942613" heading="150.000000" radius="15.000000" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="47.64756162854692" lon="8.38464353554385" heading="240.000000" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="47.64723060175456" lon="8.38380116752170" heading="260.000000" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="47.64731956056345" lon="8.38396611656311" heading="40.000000" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="47.64756162854692" lon="8.38464353554385" heading="240.000000" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="3" type="FUEL" lat="47.64772167926716" lon="8.38505059682994" heading="150.000000" radius="8.000000" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<Aprons/>
 		<PaintedElements/>
