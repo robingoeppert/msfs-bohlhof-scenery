@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Gen_Hangar02-->
+	<SceneryObject lat="47.64705927807322" lon="8.38405535234158" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-30.391439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9218816C-5828-4392-8C1A-E52B26681CE4}" scale="0.630000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar105-->
+	<SceneryObject lat="47.64722056009395" lon="8.38439363465778" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-126.125016" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{718D3E17-6506-4DC3-B6E7-B1DCE2667F5F}" scale="0.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar186-->
+	<SceneryObject lat="47.64733447977789" lon="8.38480973592248" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-121.105319" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AB5CC711-AC3B-440E-9EC4-95556137B3B7}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+
