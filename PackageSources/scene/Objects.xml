@@ -12,5 +12,11 @@
 	<SceneryObject lat="47.64733447977789" lon="8.38480973592248" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-121.105319" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{AB5CC711-AC3B-440E-9EC4-95556137B3B7}" scale="1.000000"/>
 	</SceneryObject>
+	<Airport country="Germany" city="Wutöschingen" name="Bohlhof" ident="ED33" lat="47.65097816307579" lon="8.38682150242070" alt="565.57112178020179" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiName index="0" name=""/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
 </FSData>
 
