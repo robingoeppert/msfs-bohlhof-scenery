@@ -1,7 +1,7 @@
-<AssetPackage Name="robingoeppert-scenery-ed33" Version="0.1.0">
+<AssetPackage Name="robingoeppert-airport-ed33-bohlhof" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>ED33 Bohlhof Scenery</Title>
+		<Title>ED33 Bohlhof</Title>
 		<Manufacturer/>
 		<Creator>Robin Göppert</Creator>
 	</ItemSettings>
@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\robingoeppert-scenery-ed33\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\robingoeppert-scenery-ed33\</OutputDir>
+			<AssetDir>PackageDefinitions\robingoeppert-airport-ed33-bohlhof\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\robingoeppert-airport-ed33-bohlhof\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymodellib">
 			<Type>ArtProj</Type>
@@ -24,7 +24,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\robingoeppert\</OutputDir>
+			<OutputDir>scenery\bohlhof\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="myscene">
 			<Type>BGL</Type>

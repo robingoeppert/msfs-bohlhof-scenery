@@ -1,0 +1,9 @@
+<Project Version="2" Name="BohlhofAirport" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\robingoeppert-airport-ed33-bohlhof.xml</Package>
+		<Package>PackageDefinitions\robingoeppert-service-ed33-bohlhof.xml</Package>
+	</Packages>
+</Project>
+

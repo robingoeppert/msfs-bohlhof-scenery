@@ -1,4 +1,4 @@
-<AssetPackage Name="robingoeppert-service-ed33" Version="0.1.0">
+<AssetPackage Name="robingoeppert-service-ed33-bohlhof" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SERVICE</ContentType>
 		<Title>ED33 Bohlhof Services</Title>
@@ -15,10 +15,10 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\robingoeppert-service-ed33\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\robingoeppert-service-ed33</OutputDir>
+			<AssetDir>PackageDefinitions\robingoeppert-service-ed33-bohlhof\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\robingoeppert-service-ed33-bohlhof</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="robingoeppert-service-ed33">
+		<AssetGroup Name="robingoeppert-service-ed33-bohlhof">
 			<Type>Service</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
