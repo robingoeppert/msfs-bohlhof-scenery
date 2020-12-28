@@ -18,18 +18,24 @@
 	<SceneryObject lat="47.64737017372943" lon="8.38696471770470" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" instanceId="{4D202B1E-50E7-4DF6-8211-A8D4CAFDC3B4}" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="12.000000" sockLength="2.743200" lighted="FALSE"/>
 	</SceneryObject>
-	<Rectangle width="16.094440" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64721785097574" longitude="8.38389469186681" altitude="559.54184883646667" latitude2="47.64711895382388" longitude2="8.38397749311243" altitude2="559.54245235491544"/>
-	<Rectangle width="3.696590" falloff="1.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64726186666091" longitude="8.38400984338628" altitude="559.54205362405628" latitude2="47.64716281255840" longitude2="8.38409232208449" altitude2="559.54266016930342"/>
-	<Rectangle width="37.504772" falloff="1.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64729814187243" longitude="8.38432097854631" altitude="559.21053231041878" latitude2="47.64725361473656" longitude2="8.38436060236699" altitude2="559.21081052627414"/>
-	<Rectangle width="25.166611" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64749792273573" longitude="8.38466294014381" altitude="560.54075033683330" latitude2="47.64741906813352" longitude2="8.38472970248173" altitude2="560.54123481921852"/>
-	<Rectangle width="23.135101" falloff="10.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.64765880322253" longitude="8.38454477934127" altitude="560.54692360572517" latitude2="47.64751409993732" longitude2="8.38466649071839" altitude2="560.54780716355890"/>
-	<Rectangle width="20.524137" falloff="15.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.64730330232118" longitude="8.38385825951789" altitude="559.54303739871830" latitude2="47.64722966449206" longitude2="8.38391951055778" altitude2="559.54348729364574">
+	<Rectangle width="19.110558" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64722452848243" longitude="8.38391215768447" altitude="559.54184918478131" latitude2="47.64712563135790" longitude2="8.38399495901294" altitude2="559.54245156887919"/>
+	<Rectangle width="37.504772" falloff="1.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64729814186109" longitude="8.38432097853766" altitude="558.71053129062057" latitude2="47.64725361473349" longitude2="8.38436060237563" altitude2="558.71080954838544"/>
+	<Rectangle width="28.654196" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64750571040796" longitude="8.38468308405045" altitude="560.04074537102133" latitude2="47.64742685581779" longitude2="8.38474984643939" altitude2="560.04123014863580"/>
+	<Rectangle width="12.628233" falloff="1.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="47.64722685470960" longitude="8.38408805542940" altitude="559.13899035006762" latitude2="47.64721866467257" longitude2="8.38406641026923" altitude2="559.13897512387484">
+		<RunwayDeformation alt="558.710999" ratio="0.000000"/>
+		<RunwayDeformation alt="559.546021" ratio="1.000000"/>
+	</Rectangle>
+	<Rectangle width="20.524137" falloff="15.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.64730330231054" longitude="8.38385825949216" altitude="559.54303717892617" latitude2="47.64722966449909" longitude2="8.38391951058350" altitude2="559.54348707199097">
 		<RunwayDeformation alt="559.740173" ratio="0.000000"/>
 		<RunwayDeformation alt="559.543030" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="38.229347" falloff="10.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.64745993884312" longitude="8.38418472953923" altitude="559.21046413388103" latitude2="47.64730469043488" longitude2="8.38432193604894" altitude2="559.21143087092787">
-		<RunwayDeformation alt="559.210449" ratio="0.000000"/>
-		<RunwayDeformation alt="559.211426" ratio="1.000000"/>
+	<Rectangle width="38.229347" falloff="10.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.64745993879685" longitude="8.38418472945081" altitude="558.71046378277242" latitude2="47.64730469045590" longitude2="8.38432193613736" altitude2="558.71142922341824">
+		<RunwayDeformation alt="560.710022" ratio="0.000000" controlPointAfter="0.000000"/>
+		<RunwayDeformation alt="559.210999" ratio="1.000000"/>
+	</Rectangle>
+	<Rectangle width="23.135101" falloff="10.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.64768274302821" longitude="8.38452464312811" altitude="560.04684755112976" latitude2="47.64751409992929" longitude2="8.38466649078244" altitude2="560.04788221046329">
+		<RunwayDeformation alt="561.046997" ratio="0.000000"/>
+		<RunwayDeformation alt="560.047791" ratio="1.000000"/>
 	</Rectangle>
 	<Airport country="Germany" city="Wutöschingen" name="Bohlhof" ident="ED33" lat="47.65097816307579" lon="8.38682150242070" alt="565.57112178020179" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="47.64756162854692" lon="8.38464353554385" heading="240.000000" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
