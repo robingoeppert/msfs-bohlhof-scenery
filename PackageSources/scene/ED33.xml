@@ -18,6 +18,11 @@
 	<SceneryObject lat="47.64737017372943" lon="8.38696471770470" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" instanceId="{4D202B1E-50E7-4DF6-8211-A8D4CAFDC3B4}" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="12.000000" sockLength="2.743200" lighted="FALSE"/>
 	</SceneryObject>
+	<Rectangle width="20.542969" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.64722770120532" longitude="8.38392045570369" altitude="559.54184585064650" latitude2="47.64712880405544" longitude2="8.38400325696416" altitude2="559.54245152417570"/>
+	<Rectangle width="20.524137" falloff="15.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.64730330232118" longitude="8.38385825951789" altitude="559.54303739871830" latitude2="47.64722966449206" longitude2="8.38391951055778" altitude2="559.54348729364574">
+		<RunwayDeformation alt="559.740173" ratio="0.000000"/>
+		<RunwayDeformation alt="559.543030" ratio="1.000000"/>
+	</Rectangle>
 	<Airport country="Germany" city="Wutöschingen" name="Bohlhof" ident="ED33" lat="47.65097816307579" lon="8.38682150242070" alt="565.57112178020179" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="47.64756162854692" lon="8.38464353554385" heading="240.000000" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="47.64723060175456" lon="8.38380116752170" heading="260.000000" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
