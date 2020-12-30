@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--SceneryObject name: Car01_Black-->
+	<SceneryObject lat="47.64703109049155" lon="8.38367104715351" alt="0.00000000000000" pitch="0.001025" bank="-0.001025" heading="56.423004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F7D2DAE8-37A9-4BE3-BCBB-3430C6E597FE}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Car01_White-->
 	<SceneryObject lat="47.64744174299924" lon="8.38514309965170" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-42.303415" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{4F460367-2D3B-46F2-8225-CBEC56300F3C}" scale="1.000000"/>
@@ -15,6 +19,10 @@
 	<!--SceneryObject name: Car04_Brown-->
 	<SceneryObject lat="47.64739787544958" lon="8.38499318033486" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="-122.186511" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{73EAC688-1AD9-47F2-9355-DAD5572B4D8E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car04_White-->
+	<SceneryObject lat="47.64706312019428" lon="8.38350096074796" alt="0.00000000000000" pitch="0.001475" bank="-0.001475" heading="-123.832723" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{EF05598A-28D7-46D9-8A0E-24067952755A}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar02-->
 	<SceneryObject lat="47.64705927807322" lon="8.38405535234158" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-30.391439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
