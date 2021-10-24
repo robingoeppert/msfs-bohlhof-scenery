@@ -1,0 +1,31 @@
+<AssetPackage Name="robingoeppert-airport-ed33-wutoschingen" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>robingoeppert-airport-ed33-bohlhof</Title>
+		<Manufacturer/>
+		<Creator>Robin Göppert</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\robingoeppert-airport-ed33-wutoschingen\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\robingoeppert-airport-ed33-wutoschingen</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\\sceneries</AssetDir>
+			<OutputDir>scenery\robingoeppert\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
